@@ -13,4 +13,4 @@
 会写一个功能-->设计一个结构
 
 #### 主脚本👣
-- [image_browser.py](image.browser.py)
+- [📕image_browser.py](imag_browser.py)
