@@ -4,3 +4,4 @@
 - Day2 [🔨多功能图像处理工具](d_2_file_utils/README.md)
 - Day3 [🔨Numpy图像处理初体验](d_3_file_utils/README.md)
 - Day4 [🔨Pandas表格读取与数据统计](d_4_file_utils/README.md)
+- Day5 [🔨Matplotlib数据可视化](d_5_file_utils/README.md)
