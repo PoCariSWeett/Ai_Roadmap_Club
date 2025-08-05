@@ -7,4 +7,5 @@
 - Day5 [🔨Matplotlib数据可视化](d_5_file_utils/README.md)
 - Day6 [🔨OpenCV读图与缩放](d_6_file_utils/README.md)
 - Day7 [🔨颜色空间转换与批量处理](d_7_file_utils/README.md)
-- Day7 [🔨图像批量滤波处理](d_8_file_utils/README.md)
+- Day8 [🔨图像批量滤波处理](d_8_file_utils/README.md)
+- Day9 [🔨模型评估基础](d_9_file_utils/README.md)
